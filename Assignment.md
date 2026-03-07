@@ -22,4 +22,4 @@
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> [[LinkedIn post URL](https://www.linkedin.com/posts/praveen-s57_medicalrobotics-robotics-healthcareinnovation-activity-7436050055339343872-8ieY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEboFWIBVBqD4zZ3AIvs3k9TYJntPKCq7mM)]
